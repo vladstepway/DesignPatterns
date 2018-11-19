@@ -18,3 +18,4 @@ public class Seller extends Person {
         System.out.println("for seller :" + getName() + "\n" + msg);
     }
 }
+//допустим это какие-то изменения
